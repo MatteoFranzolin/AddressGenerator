@@ -1,0 +1,8 @@
+C:\Users\franz\OneDrive\Desktop\School\Quarta\TPSIT\IP_Address\ProgramAddressGenerator\ProgramAddressGenerator\bin\Debug\ProgramAddressGenerator.exe.config
+C:\Users\franz\OneDrive\Desktop\School\Quarta\TPSIT\IP_Address\ProgramAddressGenerator\ProgramAddressGenerator\bin\Debug\ProgramAddressGenerator.exe
+C:\Users\franz\OneDrive\Desktop\School\Quarta\TPSIT\IP_Address\ProgramAddressGenerator\ProgramAddressGenerator\bin\Debug\ProgramAddressGenerator.pdb
+C:\Users\franz\OneDrive\Desktop\School\Quarta\TPSIT\IP_Address\ProgramAddressGenerator\ProgramAddressGenerator\obj\Debug\ProgramAddressGenerator.csproj.AssemblyReference.cache
+C:\Users\franz\OneDrive\Desktop\School\Quarta\TPSIT\IP_Address\ProgramAddressGenerator\ProgramAddressGenerator\obj\Debug\ProgramAddressGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\franz\OneDrive\Desktop\School\Quarta\TPSIT\IP_Address\ProgramAddressGenerator\ProgramAddressGenerator\obj\Debug\ProgramAddressGenerator.csproj.CoreCompileInputs.cache
+C:\Users\franz\OneDrive\Desktop\School\Quarta\TPSIT\IP_Address\ProgramAddressGenerator\ProgramAddressGenerator\obj\Debug\ProgramAddressGenerator.exe
+C:\Users\franz\OneDrive\Desktop\School\Quarta\TPSIT\IP_Address\ProgramAddressGenerator\ProgramAddressGenerator\obj\Debug\ProgramAddressGenerator.pdb
