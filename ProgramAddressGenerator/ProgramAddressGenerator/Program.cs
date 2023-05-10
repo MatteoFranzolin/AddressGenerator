@@ -12,11 +12,8 @@ namespace ProgramAddressGenerator
         static void Main(string[] args)
         {
             string input = "00001000000000000000100000001010";
-            AddressGenerator a = new AddressGenerator(input);
-            Console.WriteLine(a.generateIPv4());
+                AddressGenerator a = new AddressGenerator(input);
             Console.WriteLine(a.generateSubnet());
-            Console.ReadLine();
-
         }
     }
 }

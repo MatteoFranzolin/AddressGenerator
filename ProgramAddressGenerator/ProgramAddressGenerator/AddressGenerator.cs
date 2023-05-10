@@ -40,6 +40,7 @@ namespace ProgramAddressGenerator
         /// <returns>Stringa contente subnet mask</returns>
         public string generateSubnet()
         {
+            generateIPv4();
             string subnet = "";
             char classe_ip = IpClass(ipAddress);
             switch (classe_ip)
