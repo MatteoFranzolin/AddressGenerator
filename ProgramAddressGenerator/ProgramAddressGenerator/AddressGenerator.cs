@@ -8,7 +8,7 @@ using System.Net;
 
 namespace ProgramAddressGenerator
 {
-    internal class AddressGenerator : IAddress
+    public class AddressGenerator : IAddress
     {
         string bit_ip;
         IPAddress ipAddress;

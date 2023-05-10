@@ -5,6 +5,11 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramAddressGenerator", "ProgramAddressGenerator\ProgramAddressGenerator.csproj", "{D0FF036A-9055-4DB0-BA7B-5599F4F1766E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressTests", "AddressTests\AddressTests.csproj", "{612D4263-71E4-4801-96FF-6DBF5D7C208E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D0FF036A-9055-4DB0-BA7B-5599F4F1766E} = {D0FF036A-9055-4DB0-BA7B-5599F4F1766E}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +20,10 @@ Global
 		{D0FF036A-9055-4DB0-BA7B-5599F4F1766E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0FF036A-9055-4DB0-BA7B-5599F4F1766E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0FF036A-9055-4DB0-BA7B-5599F4F1766E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612D4263-71E4-4801-96FF-6DBF5D7C208E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612D4263-71E4-4801-96FF-6DBF5D7C208E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612D4263-71E4-4801-96FF-6DBF5D7C208E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612D4263-71E4-4801-96FF-6DBF5D7C208E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
